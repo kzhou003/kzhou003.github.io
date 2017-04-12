@@ -7,28 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Kuan Zhou</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/negf/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Benchmarking for material simulation package-OpenMX</title>
-      <link>https://kzhou003.github.io/project/1-benchmarking-openmx/</link>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <title>Resistivity calculation of tetralayer graphene</title>
+      <link>https://kzhou003.github.io/project/tetralayer-graphene/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kzhou003.github.io/project/1-benchmarking-openmx/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Aug. 2015-Oct. 2015&lt;/em&gt;  &lt;br /&gt;
-&lt;em&gt;Authors: Kuan Zhou, Roger K. Lake&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+      <guid>https://kzhou003.github.io/project/tetralayer-graphene/</guid>
+      <description>&lt;p&gt;&lt;em&gt;March 2017-Current&lt;/em&gt;   &lt;br /&gt;
+&lt;em&gt;Authors: Kuan Zhou, Yanmeng Shi, Supeng Ge, Jeanie Lau, Roger K. Lake&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.openmx-square.org/&#34; target=&#34;_blank&#34;&gt;OpenMX&lt;/a&gt; is an open-source software package for nano-scale material simulations based on density functional theories (DFT), norm-conserving pseudopotentials, and pseudo-atomic localized basis functions. Systems consisting of 1000 atoms can be treated using the conventional diagonalization method. Non-quilibrium Green functions (NEGF) is also implemented into the package. To help calculate electron transport for several systems with large computing requirements, I benchmarked the performance of this software.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The theory and modeling work in this project supports the experimental work of Prof. Jeanie Lau’s group. I am tasked with providing electronic band structures, Landau level energies, and resistivity for tetralayer graphene using the electronic structure calculated from a tight-binding model as input into the Boltzmann transport equation within a relaxation time approximation.&lt;br /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Interlayer resistivity of misoriented MoS$_2$</title>
-      <link>https://kzhou003.github.io/project/3-interlayer-resistance/</link>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <link>https://kzhou003.github.io/project/interlayer-resistance/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kzhou003.github.io/project/3-interlayer-resistance/</guid>
+      <guid>https://kzhou003.github.io/project/interlayer-resistance/</guid>
       <description>&lt;p&gt;&lt;em&gt;Dec. 2014-Feb. 2017&lt;/em&gt;  &lt;br /&gt;
 &lt;em&gt;Authors: Kuan Zhou, Darshana Wickramaratne, Supeng Ge, Shanshan Su, Amrit De, Roger K. Lake&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -37,15 +37,15 @@
     </item>
     
     <item>
-      <title>Resistivity calculation of tetralayer graphene</title>
-      <link>https://kzhou003.github.io/project/4-tetralayer-graphene/</link>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <title>Benchmarking for material simulation package-OpenMX</title>
+      <link>https://kzhou003.github.io/project/benchmarking-openmx/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kzhou003.github.io/project/4-tetralayer-graphene/</guid>
-      <description>&lt;p&gt;&lt;em&gt;March 2017-Current&lt;/em&gt;   &lt;br /&gt;
-&lt;em&gt;Authors: Kuan Zhou, Yanmeng Shi, Supeng Ge, Jeanie Lau, Roger K. Lake&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+      <guid>https://kzhou003.github.io/project/benchmarking-openmx/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Aug. 2015-Oct. 2015&lt;/em&gt;  &lt;br /&gt;
+&lt;em&gt;Authors: Kuan Zhou, Roger K. Lake&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The theory and modeling work in this project supports the experimental work of Prof. Jeanie Lau’s group. I am tasked with providing electronic band structures, Landau level energies, and resistivity for tetralayer graphene using the electronic structure calculated from a tight-binding model as input into the Boltzmann transport equation within a relaxation time approximation.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.openmx-square.org/&#34; target=&#34;_blank&#34;&gt;OpenMX&lt;/a&gt; is an open-source software package for nano-scale material simulations based on density functional theories (DFT), norm-conserving pseudopotentials, and pseudo-atomic localized basis functions. Systems consisting of 1000 atoms can be treated using the conventional diagonalization method. Non-quilibrium Green functions (NEGF) is also implemented into the package. To help calculate electron transport for several systems with large computing requirements, I benchmarked the performance of this software.&lt;br /&gt;&lt;/p&gt;
 </description>
     </item>
     

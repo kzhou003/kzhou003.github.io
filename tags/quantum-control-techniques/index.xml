@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Kuan Zhou</copyright>
-    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/quantum-control-techniques/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Optimization of GRAPE algorithm in quantum control techniques</title>
-      <link>https://kzhou003.github.io/project/2-optimization-grape/</link>
-      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      <link>https://kzhou003.github.io/project/optimization-grape/</link>
+      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kzhou003.github.io/project/2-optimization-grape/</guid>
+      <guid>https://kzhou003.github.io/project/optimization-grape/</guid>
       <description>&lt;p&gt;&lt;em&gt;June 2012-June 2013&lt;/em&gt; &lt;br /&gt;
 &lt;em&gt;Authors: Kuan Zhou, Nanyang Xu, Xinhua Peng&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
 
