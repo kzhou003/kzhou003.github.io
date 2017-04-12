@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://resumekzhou.github.io/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Kuan Zhou</copyright>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Awards</title>
+      <link>https://resumekzhou.github.io/awards/awards/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://resumekzhou.github.io/awards/awards/</guid>
+      <description>
+
+&lt;h2 id=&#34;awards-br&#34;&gt;Awards&lt;br /&gt;&lt;/h2&gt;
+
+&lt;p&gt;• 2014 UCR Graduate Fellowship&lt;br /&gt;
+• 2011 Outstanding Student Scholarship, USTC, grade 2 (top 10%) • 2011 Quantum RunFeng Scholarship, USTC, grade 2 (top 10%)&lt;br /&gt;
+• 2010 Excellence Award in Robogame Contest, USTC&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking for material Simulation package-OpenMX</title>
+      <link>https://resumekzhou.github.io/project/1-benchmarking-openmx/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://resumekzhou.github.io/project/1-benchmarking-openmx/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Aug. 2015-Oct. 2015&lt;/em&gt;  &lt;br /&gt;
+&lt;em&gt;Authors: Kuan Zhou, Roger K. Lake&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;OpenMX is an open-source software package for nano-scale material simulations based on density functional theories (DFT), norm-conserving pseudopotentials, and pseudo- atomic localized basis functions. Systems consisting of 1000 atoms can be treated using the conventional diagonalization method. Non-quilibrium Green functions (NEGF) is also implemented into the package. To help calculate electron transport for several systems with large computing requirements, I benchmarked the performance of this software.&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://resumekzhou.github.io/contact/contact/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://resumekzhou.github.io/contact/contact/</guid>
+      <description>&lt;p&gt;Address: 212 Barret Rd., Riverside, CA, 92507 &lt;br /&gt;
+Phone: +1 (951) 318 1339 &lt;br /&gt;
+Email: kzhou003@ucr.edu Description &lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interlayer Resistivity of Misoriented MoS2</title>
+      <link>https://resumekzhou.github.io/project/3-interlayer-resistance/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://resumekzhou.github.io/project/3-interlayer-resistance/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Dec. 2014-Feb. 2017&lt;/em&gt;  &lt;br /&gt;
+&lt;em&gt;Authors: Kuan Zhou, Darshana Wickramaratne, Supeng Ge, Shanshan Su, Amrit De, Roger K. Lake&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The electron and hole interlayer resistivities of misoriented bilayer MoS2 were deter- mined as a function of the misorientation angle. The approach employed electronic structure calculations using the Vienna Ab initio simulation package (VASP) combined with NEGF calculations of the interlayer resistivity. I found that the electron and hole resistivities differed by several orders of magnitude depending on the rotation angle, and how this property could be exploited in the design of a high-frequency bipolar junction transistor or heterostructure bipolar transistor. This work has been published in Physical Chemistry Chemical Physics.&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimization of GRAPE algorithm in quantum control techniques</title>
+      <link>https://resumekzhou.github.io/project/2-optimization-grape/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://resumekzhou.github.io/project/2-optimization-grape/</guid>
+      <description>&lt;p&gt;&lt;em&gt;June 2012-June 2013&lt;/em&gt; &lt;br /&gt;
+&lt;em&gt;Authors: Kuan Zhou, Nanyang Xu, Xinhua Peng&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I developed quantum control techniques in NMR systems, including optimization of the Gradient Ascent Pulse Engineering algorithm (GRAPE), and completed the task of algorithm development and pulse calculations in 5-bit systems.&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://resumekzhou.github.io/skills/skills/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://resumekzhou.github.io/skills/skills/</guid>
+      <description>
+
+&lt;h2 id=&#34;computer-skills-br&#34;&gt;Computer Skills&lt;br /&gt;&lt;/h2&gt;
+
+&lt;p&gt;C, C++, Python, Matlab, Mathematica, VASP, Quantum ESPRESSO, OpenMX, Linux, Latex Adobe Photoshop&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resistivity Calculation of Tetralayer Graphene</title>
+      <link>https://resumekzhou.github.io/project/4-tetralayer-graphene/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://resumekzhou.github.io/project/4-tetralayer-graphene/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Current&lt;/em&gt;   &lt;br /&gt;
+&lt;em&gt;Authors: Kuan Zhou, Yanmeng Shi, Supeng Ge, Jeanie Lau, Roger K. Lake&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The theory and modeling work in this project supports the experimental work of Prof. Jeanie Lau’s group. I am tasked with providing electronic band structures, Landau level energies, and resistivity for tetralayer graphene using the electronic structure calculated from a tight-binding model as input into the Boltzmann transport equation within a relaxation time approximation.&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interlayer resistance of misoriented MoS2</title>
+      <link>https://resumekzhou.github.io/publication/interlayer-resistance/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://resumekzhou.github.io/publication/interlayer-resistance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

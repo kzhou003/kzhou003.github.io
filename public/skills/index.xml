@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills on </title>
+    <link>https://resumekzhou.github.io/skills/</link>
+    <description>Recent content in Skills on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Kuan Zhou</copyright>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/skills/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>https://resumekzhou.github.io/skills/skills/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://resumekzhou.github.io/skills/skills/</guid>
+      <description>
+
+&lt;h2 id=&#34;computer-skills-br&#34;&gt;Computer Skills&lt;br /&gt;&lt;/h2&gt;
+
+&lt;p&gt;C, C++, Python, Matlab, Mathematica, VASP, Quantum ESPRESSO, OpenMX, Linux, Latex Adobe Photoshop&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Control Techniques on </title>
+    <link>https://resumekzhou.github.io/tags/quantum-control-techniques/</link>
+    <description>Recent content in Quantum Control Techniques on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Kuan Zhou</copyright>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/quantum-control-techniques/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Optimization of GRAPE algorithm in quantum control techniques</title>
+      <link>https://resumekzhou.github.io/project/2-optimization-grape/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://resumekzhou.github.io/project/2-optimization-grape/</guid>
+      <description>&lt;p&gt;&lt;em&gt;June 2012-June 2013&lt;/em&gt; &lt;br /&gt;
+&lt;em&gt;Authors: Kuan Zhou, Nanyang Xu, Xinhua Peng&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I developed quantum control techniques in NMR systems, including optimization of the Gradient Ascent Pulse Engineering algorithm (GRAPE), and completed the task of algorithm development and pulse calculations in 5-bit systems.&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
