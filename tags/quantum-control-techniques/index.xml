@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum Control Techniques on </title>
-    <link>https://resumekzhou.github.io/tags/quantum-control-techniques/</link>
+    <link>https://kzhou003.github.io/tags/quantum-control-techniques/</link>
     <description>Recent content in Quantum Control Techniques on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Optimization of GRAPE algorithm in quantum control techniques</title>
-      <link>https://resumekzhou.github.io/project/2-optimization-grape/</link>
+      <link>https://kzhou003.github.io/project/2-optimization-grape/</link>
       <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://resumekzhou.github.io/project/2-optimization-grape/</guid>
+      <guid>https://kzhou003.github.io/project/2-optimization-grape/</guid>
       <description>&lt;p&gt;&lt;em&gt;June 2012-June 2013&lt;/em&gt; &lt;br /&gt;
 &lt;em&gt;Authors: Kuan Zhou, Nanyang Xu, Xinhua Peng&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
 
