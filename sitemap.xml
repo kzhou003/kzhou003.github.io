@@ -44,7 +44,7 @@
     
     
     <url>
-      <loc>https://kzhou003.github.io/skills/skills/</loc>
+      <loc>https://kzhou003.github.io/publication/</loc>
       <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     </url>
     
@@ -60,15 +60,15 @@
     
     
     <url>
-      <loc>https://kzhou003.github.io/tags/academic/</loc>
-      <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+      <loc>https://kzhou003.github.io/skills/skills/</loc>
+      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
     </url>
     
   
     
     
     <url>
-      <loc>https://kzhou003.github.io/publication/</loc>
+      <loc>https://kzhou003.github.io/tags/academic/</loc>
       <lastmod>2017-04-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -93,7 +93,7 @@
     
     
     <url>
-      <loc>https://kzhou003.github.io/publication_types/1/</loc>
+      <loc>https://kzhou003.github.io/publication_types/2/</loc>
       <lastmod>2017-03-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -119,7 +119,43 @@
     
     
     <url>
+      <loc>https://kzhou003.github.io/tags/coding/</loc>
+      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://kzhou003.github.io/contact/</loc>
+      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://kzhou003.github.io/tags/dft/</loc>
+      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://kzhou003.github.io/tags/electron-transport/</loc>
+      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://kzhou003.github.io/tags/matlab/</loc>
       <lastmod>2017-04-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -164,6 +200,15 @@
     
     
     <url>
+      <loc>https://kzhou003.github.io/tags/semiconductor/</loc>
+      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://kzhou003.github.io/skills/</loc>
       <lastmod>2017-04-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -175,6 +220,15 @@
     <url>
       <loc>https://kzhou003.github.io/tags/</loc>
       <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://kzhou003.github.io/tags/tight-binding/</loc>
+      <lastmod>2017-04-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

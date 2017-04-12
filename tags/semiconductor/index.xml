@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semiconductor on </title>
+    <link>https://kzhou003.github.io/tags/semiconductor/</link>
+    <description>Recent content in Semiconductor on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Kuan Zhou</copyright>
+    <lastBuildDate>Tue, 11 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/semiconductor/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Interlayer resistivity of misoriented MoS$_2$</title>
+      <link>https://kzhou003.github.io/project/3-interlayer-resistance/</link>
+      <pubDate>Tue, 11 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kzhou003.github.io/project/3-interlayer-resistance/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Dec. 2014-Feb. 2017&lt;/em&gt;  &lt;br /&gt;
+&lt;em&gt;Authors: Kuan Zhou, Darshana Wickramaratne, Supeng Ge, Shanshan Su, Amrit De, Roger K. Lake&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The electron and hole interlayer resistance of misoriented bilayer MoS$_2$ were determined as a function of the misorientation angle. The approach employed electronic structure calculations using the Vienna Ab initio simulation package (&lt;a href=&#34;http://cms.mpi.univie.ac.at/vasp/vasp/vasp.html&#34; target=&#34;_blank&#34;&gt;VASP&lt;/a&gt;) combined with NEGF calculations of the interlayer resistivity. I found that the electron and hole resistivities differed by several orders of magnitude depending on the rotation angle, and how this property could be exploited in the design of a high-frequency bipolar junction transistor or heterostructure bipolar transistor. This work has been published in Physical Chemistry Chemical Physics as an &lt;a href=&#34;http://pubs.rsc.org/en/content/articlepdf/2017/cp/c6cp08927e&#34; target=&#34;_blank&#34;&gt;Advanced article&lt;/a&gt;.&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
