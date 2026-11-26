@@ -48,6 +48,12 @@
               "title": "Luminal 拆解",
               "description": "拆解 Luminal 这个 GPU 编译器项目",
               "url": "https://kzhou003.github.io/adhoc-lean-grills/luminal-report/luminal_report.html"
+            },
+            {
+              "id": "compiler-opt-report",
+              "title": "编译器优化导读",
+              "description": "Inductor、XLA、Luminal 怎样把训练图变快：改写、融合、min-cut 重算、autotune 与并行",
+              "url": "https://kzhou003.github.io/adhoc-lean-grills/compiler-optimization-report/report.html"
             }
           ]
         }
@@ -416,6 +422,21 @@
       "source": "cute-algebra",
       "target": "aic-triton",
       "reason": "编译期把 layout 折叠成移位与位运算，对照 Triton 的 IR 与 pass"
+    },
+    {
+      "source": "compiler-opt-report",
+      "target": "aic-luminal",
+      "reason": "Luminal 的 egglog 等价改写与实测搜索：导读讲源码，练习从零写 e-graph"
+    },
+    {
+      "source": "compiler-opt-report",
+      "target": "aic-triton",
+      "reason": "Inductor 融合后生成 Triton kernel 并 autotune：导读讲决策，练习拆 Triton 的 IR 与 autotuner"
+    },
+    {
+      "source": "compiler-opt-report",
+      "target": "cute-async",
+      "reason": "导读里改变编译器选择的 PDL、TMA、CUDA Graphs，在练习里逐个建模"
     }
   ]
 }
